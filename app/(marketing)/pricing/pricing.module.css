@@ -1,0 +1,25 @@
+
+.main{
+    text-align: center;
+    display: flex; 
+    gap: 50px;
+}
+.main h1{
+    text-align: center;
+    justify-content: center;
+}
+.price{
+    margin-top: 95px;
+    margin-bottom: 98px;
+    margin-right: 50px; 
+    width: 23%;
+    height: 60%;
+    padding: 40px;
+    border: 1px solid rgb(125, 125, 181);
+    background-color: rgb(240, 209, 167);
+    text-decoration: none;
+}
+.price li{
+    font-size: large;
+    text-align: left;
+}
